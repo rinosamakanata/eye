@@ -2,7 +2,7 @@
 #  this is only way when install eye as system wide
 
 gem 'celluloid',     '~> 0.17.0.rc1'
-gem 'celluloid-io',  '~> 0.16.0'
+gem 'celluloid-io',  '~> 0.16.5.pre0'
 gem 'nio4r'
 gem 'timers'
 
